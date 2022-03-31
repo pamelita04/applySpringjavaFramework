@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <spring.version>1.4.0.RELEASE</spring.version>
+        <spring.version>2.5.12</spring.version>
         <cucumber.version>1.2.4</cucumber.version>
         <tapestry.version>5.4.1</tapestry.version>
         <docker.image.prefix>springio</docker.image.prefix>
